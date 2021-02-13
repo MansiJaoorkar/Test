@@ -2,6 +2,8 @@ hungry=input("are you hungry?")
 if hungry=="yes"
  print("eat samosa")
  print("Eat pizza")
+print("Changes done by master");
+
 else
  print("do your homework");
 
